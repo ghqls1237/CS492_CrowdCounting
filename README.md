@@ -11,4 +11,4 @@ pip install visdom
 pip install tqdm
 ```  
 
-A modification of implementation of the paper based on code1:[link](https://github.com/weizheliu/Context-Aware-Crowd-Counting) and code2:[link](https://github.com/CommissarMa/Crowd_counting_from_scratch)
+A modification of implementation of the paper based on [code1](https://github.com/weizheliu/Context-Aware-Crowd-Counting) and [code2](https://github.com/CommissarMa/Crowd_counting_from_scratch)
